@@ -33,8 +33,16 @@
 		<dependency>
 			<groupId>com.google.firebase</groupId>
 			<artifactId>firebase-admin</artifactId>
-			<version>7.0.0</version>
+			<version>7.3.0</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.google.firebase</groupId>
+			<artifactId>firebase-server-sdk</artifactId>
+			<version>3.0.3</version>
+		</dependency>
+
+
 
 		<dependency>
 			<groupId>mysql</groupId>
