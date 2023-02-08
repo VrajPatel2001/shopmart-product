@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 !**/src/main/resources/application.properties
 !**/src/main/resources/keys.json.enc
-
+/Users/vrajpatel/Desktop/product-service/src/main/resources/application.properties
 *.properties
 *.json
 
